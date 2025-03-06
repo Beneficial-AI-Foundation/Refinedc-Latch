@@ -1,0 +1,5 @@
+-Q _build/default/theories refinedc
+
+-arg -w -arg -notation-incompatible-prefix
+-arg -w -arg -redundant-canonical-projection
+-Q _build/default/src/proofs/latch refinedc.project.workspace.src.latch
