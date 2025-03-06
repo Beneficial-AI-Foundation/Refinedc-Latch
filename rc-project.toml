@@ -5,7 +5,7 @@ coq_root = "refinedc.project.workspace"
 [cpp]
 include = ["include"]
 
-use_rc_include = false
+use_rc_include = true
 
 [coq]
 extra_theories = []
